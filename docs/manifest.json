@@ -36,7 +36,7 @@
           "hash": "tWHNnfp6waiwtkwAb5t+Nw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/educational_resources.html",
-          "hash": "uv1OHXge38hRt9fy/HS+/w=="
+          "hash": "OewSSs7w5IvFX8D3egEp/A=="
         }
       },
       "is_incremental": false,
@@ -60,7 +60,7 @@
           "hash": "YMGsn7hqat1E1gFAmuku5w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -72,7 +72,7 @@
           "hash": "T5Mu9nodWmQ/aRtYIWgdsw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -81,10 +81,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "KFHmMOcaUQ8v7Fnv6CLePQ=="
+          "hash": "4gTHMwOH2IEbuqei2ZVqvw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -144,7 +144,7 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 7,
-          "skipped_file_count": 7
+          "skipped_file_count": 6
         }
       }
     },
