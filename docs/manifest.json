@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/vijay/Download/docfx_project",
+  "source_base_path": "C:/Users/vijay/source/repos/semiml",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -9,10 +9,10 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "EBckby9Xj+UH8SMFMyRdEw=="
+          "hash": "qdzStAb2fyvAapCWyR4lNw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -29,14 +29,50 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/educational_resources.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/educational_resources.html",
+          "hash": "JJvYQpi3SdfdAVSD2CKxww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/history.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/history.html",
+          "hash": "EG1a/jN8v75RE11EGMD9PA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/in_media.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/in_media.html",
+          "hash": "sHdz27akkrEb70hQBwgBnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/intro.md",
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "hvhM4fo3FGeBB4eubGHvGg=="
+          "hash": "MTRPL4F8IlHkXSK+pNykKg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -45,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "t7iiFrmuYmrKWisdq+lN6Q=="
+          "hash": "L7tzgxmSdcQZgMNIhzfu8g=="
         }
       },
       "is_incremental": false,
@@ -57,10 +93,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "3TrSvWGiQNn4estbI0PY8g=="
+          "hash": "KsMe6Y8gnvShzjiUhTk+EQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -79,31 +115,33 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 0
+        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
           "skipped_file_count": 0
-        },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": true,
-          "incrementalPhase": "build",
-          "total_file_count": 3,
-          "skipped_file_count": 3
         }
       }
     },
     {
       "status": {
-        "can_incremental": true,
-        "details": "Can support incremental post processing.",
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0
