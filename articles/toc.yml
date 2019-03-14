@@ -1,8 +1,8 @@
 - name: Introduction
   href: intro.md
 
-- name: History
-  href: history.md
+# - name: History
+#   href: history.md
 
 - name: Educational Resources
   href: educational_resources.md
