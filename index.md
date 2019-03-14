@@ -2,7 +2,7 @@
 
 Head on to the [Articles](./articles/intro.md) to see different sections with information on whats going on..
 
-# _Link to Details section_
+# [_Link to Details section_](./articles/intro.md)
 
 [Please click here to see the article section](./articles/intro.md)
 

@@ -16,3 +16,7 @@ Well not every article can be referenced here but the fact that they are in publ
   - [Gains in manufacturing ](https://www.forbes.com/sites/louiscolumbus/2018/03/11/10-ways-machine-learning-is-revolutionizing-manufacturing-in-2018/#73c9053e23ac)
 
 - [semiengineering](https://semiengineering.com/applying-machine-learning-to-chips/)
+
+# Startups dedicated to this task.
+
+- Motivo.ai
