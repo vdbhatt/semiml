@@ -2,6 +2,10 @@
 
 Head on to the [Articles](./articles/intro.md) to see different sections with information on whats going on..
 
+# _Link to Details section_
+
+[Please click here to see the article section](./articles/intro.md)
+
 This is by no means exhaustive list of all that is out there. It is simply an effort to keep information
 handy in one place to get started and get overview of the advances in the field along with how to get started.
 
