@@ -31,6 +31,16 @@ Well as these are just few books to get started one can never list or read all t
 As of start 2019 there are not so many books on this topic but lets see whats out there.
 
 - [Machine Learning in VLSI Computer-Aided Design](https://www.springer.com/us/book/9783030046651), This book is the latest to be found by searching online.
+- [Machine Intelligence in Design Automation ](https://www.amazon.com/gp/product/1980554358/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=paripath-20&creative=9325&linkCode=as2&creativeASIN=1980554358&linkId=8825de695f454197eef54591b61f5b3e).
+
+# Some interesting papers.
+
+There are so many publications out there that it's impossible to list all of them, also it is not necessary. However to get started and start back tracking or to explore citation graph, lets start with few.
+
+- [Machine Learning Applications in Physical Design: Recent Results and Directions](https://doi.org/10.1145/3177540.3177554)
+
+- [Training a Fully Convolutional Neural Network to Route Integrated Circuits](https://arxiv.org/abs/1706.08948)
+- [LEAP: A learning apprentice for VLSI design](https://www.sciencedirect.com/science/article/pii/B978008051055250016X) This one is has over 400 citations and is now almost 30 year old!
 
 # Research groups and academic centers
 
